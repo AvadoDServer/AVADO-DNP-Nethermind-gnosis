@@ -1,0 +1,30 @@
+{
+  "0.0.11": {
+    "hash": "/ipfs/QmTLVk5RiEftdP1VNjwVaXJdyXwkC72EamXkY2RbZYzBqF",
+    "type": "manifest",
+    "uploadedTo": {
+      "dappnode": "Fri, 04 Feb 2022 12:31:33 GMT"
+    }
+  },
+  "0.0.12": {
+    "hash": "/ipfs/QmRDvRZMLijuCpeqTCw4fN25g5Bg18cQ8jDS1FqGkhkBww",
+    "type": "manifest",
+    "uploadedTo": {
+      "dappnode": "Fri, 04 Feb 2022 13:01:57 GMT"
+    }
+  },
+  "0.0.13": {
+    "hash": "/ipfs/QmUqQAZVxy9JPv9D754fSXW5z2fp9v2H36FZzNFetNTKi7",
+    "type": "manifest",
+    "uploadedTo": {
+      "dappnode": "Fri, 04 Feb 2022 14:00:04 GMT"
+    }
+  },
+  "0.0.14": {
+    "hash": "/ipfs/QmSnYF2Bo39R8yR7vPj5cueF1gPszh9qobtHxYkievF49t",
+    "type": "manifest",
+    "uploadedTo": {
+      "http://80.208.229.228:5001": "Sat, 05 Feb 2022 08:37:11 GMT"
+    }
+  }
+}

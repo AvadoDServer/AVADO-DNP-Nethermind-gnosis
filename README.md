@@ -2,7 +2,7 @@
 # Release new verions
 
 - `avadosdk increase patch`
-- `avadosdk build --provider http://23.254.227.151:5001`
+- `avadosdk build --provider  http://80.208.229.228:5001`
 
 
 
