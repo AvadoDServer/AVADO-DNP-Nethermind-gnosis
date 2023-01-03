@@ -1,5 +1,3 @@
+The Nethermind Gnosis Chain is no longer a separate repository.
 
-# Release new verions
-
-- `avadosdk increase patch`
-- `avadosdk build --provider  http://80.208.229.228:5001`
+It is now part of https://github.com/AvadoDServer/AVADO-DNP-Nethermind
